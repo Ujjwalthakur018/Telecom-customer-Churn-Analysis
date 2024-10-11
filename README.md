@@ -13,4 +13,5 @@ The "Telecom Customer Churn Analysis" case study investigates why customers leav
 - retention rates.
 - Total Revenue
 
-
+## Dashboard
+- <a href="https://github.com/Ujjwalthakur018/Telecom-customer-Churn-Analysis/blob/main/Telecom%20churn%20dashboard.png">Dashboard</a>
