@@ -6,3 +6,11 @@ The "Telecom Customer Churn Analysis" case study investigates why customers leav
 
 ## Dataset used
 - <a href="https://github.com/Ujjwalthakur018/Telecom-customer-Churn-Analysis/blob/main/telecom%20churn%20dashboard.xlsx">Dataset</a>
+
+## KPIs
+- Monitor churn rate
+- customer satisfaction scores, 
+- retention rates.
+- Total Revenue
+
+
